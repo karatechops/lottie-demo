@@ -12,7 +12,7 @@ function App() {
       renderer: "svg",
       loop: true,
       autoplay: true,
-      path: "/name-anim.json" // the path to the animation json
+      path: "name-anim.json" // the path to the animation json
     });
   });
 
